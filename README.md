@@ -2,7 +2,7 @@
 
 [![Docs](https://img.shields.io/badge/docs-%F0%9F%93%84-blue)](https://docs.openzeppelin.com/contracts)
 [![NPM Package](https://img.shields.io/npm/v/@openzeppelin/contracts.svg)](https://www.npmjs.org/package/@openzeppelin/contracts)
-[![Coverage Status](https://codecov.io/gh/OpenZeppelin/openzeppelin-contracts/graph/badge.svg)](https://codecov.io/gh/OpenZeppelin/openzeppelin-contracts)
+[![Coverage Status](https://codecov.io/gh/OpenZeppelin/openzeppelin-contracts/graph/badge.svg)](https://codecov.io/gh/OpenZeppelin/openzeppelin-contracts) [![Join the chat at https://gitter.im/klaytn/klaytn-contracts](https://badges.gitter.im/klaytn/klaytn-contracts.svg)](https://gitter.im/klaytn/klaytn-contracts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 **A library for secure smart contract development.** Build on a solid foundation of community-vetted code.
 
